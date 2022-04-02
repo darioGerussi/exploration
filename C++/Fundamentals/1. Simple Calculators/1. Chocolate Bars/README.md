@@ -10,7 +10,7 @@ display the total amount earned.
 
 Black-box model
 
-Input 1: Chocolate bars sold
+Input 1: Chocolate bars sold  
 Input 2: Amount earned per bar
 
 Output: Total amount earned
@@ -19,7 +19,7 @@ Output: Total amount earned
 
 Psuedocode
 
-Prompt user for barsSold
-Prompt user for earningsPerBar
-Set totalEarnings = barsSold x earningsPerBar
+Prompt user for barsSold  
+Prompt user for earningsPerBar  
+Set totalEarnings = barsSold x earningsPerBar  
 Display totalEarnings
