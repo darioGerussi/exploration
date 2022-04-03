@@ -4,7 +4,7 @@ A school is hosting a fund-raiser by selling
 chocolates. They earn a certain amount for each  
 bar of chocolate sold. This program prompts the  
 user for the amount of bars sold and how much is  
-earned per bar. Then, it calculates and displays
+earned per bar. Then, it calculates and displays  
 the total.  
 
 ********************************************
