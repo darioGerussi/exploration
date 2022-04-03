@@ -9,7 +9,7 @@ int main()
     double earningsPerBar, totalEarnings;
 
     // Prompt user for data
-    std::cout << "How many chocolate bars were sold? ";
+    std::cout << "\n\nHow many chocolate bars were sold? ";
     std::cin >> barsSold;
 
     std::cout << "How much is earned per chocolate? ";
@@ -17,7 +17,8 @@ int main()
 
     //Calculate and display total
     totalEarnings = barsSold * earningsPerBar;
-    std::cout << "\nTotal Amount Earned: $" << totalEarnings << endl;
+    std::cout << "\nTotal Amount Earned: $" << totalEarnings << std::endl;
+    std::cout << endl;
 
     return 0;
 }
