@@ -18,7 +18,7 @@ int main()
     //Calculate and display total
     totalEarnings = barsSold * earningsPerBar;
     std::cout << "\nTotal Amount Earned: $" << totalEarnings << std::endl;
-    std::cout << endl;
+    std::cout << std::endl;
 
     return 0;
 }
