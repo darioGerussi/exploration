@@ -8,10 +8,10 @@ soccer balls.
 
 **Black-box Model**
 
-- Input 1: Soccer balls purchased
-- Input 2: Price of each ball
+Input 1: Soccer balls purchased  
+Input 2: Price of each ball
 
-- Output: Total cost
+Output: Total cost
 
 ********************************************
 
