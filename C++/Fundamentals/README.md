@@ -1,4 +1,4 @@
 ### Fundamentals
 
-This folder contains several fundamental topics  
-within C++ of which gradually increase in complexity.
+This folder contains programs of basic complexity,  
+covering the fundamentals of the C++ language.
