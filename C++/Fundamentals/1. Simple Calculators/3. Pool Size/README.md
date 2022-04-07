@@ -18,5 +18,5 @@ Output: Total Area
 
 Prompt user for poolLength  
 Prompt user for poolWidth  
-Set poolArea = poolLength * poolWidth
+Set poolArea = poolLength * poolWidth  
 Display poolArea
