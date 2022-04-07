@@ -19,5 +19,5 @@ Output: Total amount earned
 
 Prompt user for barsSold  
 Prompt user for earningsPerBar  
-Set totalEarnings = barsSold x earningsPerBar  
+Set totalEarnings = barsSold * earningsPerBar  
 Display totalEarnings
