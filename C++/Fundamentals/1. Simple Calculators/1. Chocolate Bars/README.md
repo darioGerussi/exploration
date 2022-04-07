@@ -15,7 +15,7 @@ Output: Total amount earned
 
 ********************************************
 
-**Psuedocode**
+**Pseudocode**
 
 Prompt user for barsSold  
 Prompt user for earningsPerBar  
