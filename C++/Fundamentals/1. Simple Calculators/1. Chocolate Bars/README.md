@@ -6,7 +6,7 @@ bars.
 
 ********************************************
 
-**Black-box model**
+**Box Model**
 
 Input 1: Chocolate bars sold  
 Input 2: Amount earned per bar
@@ -15,7 +15,7 @@ Output: Total amount earned
 
 ********************************************
 
-**Pseudocode**
+**Design**
 
 Prompt user for barsSold  
 Prompt user for earningsPerBar  
