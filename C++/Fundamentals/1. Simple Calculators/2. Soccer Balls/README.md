@@ -19,5 +19,7 @@ Output: Total cost
 
 Prompt user for ballsPurchased  
 Prompt user for ballPrice  
+
 Set totalCost = ballsPurchased * ballPrice  
+
 Display totalCost
