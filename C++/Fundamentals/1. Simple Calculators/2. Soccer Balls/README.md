@@ -6,7 +6,7 @@ soccer balls.
 
 ********************************************
 
-**Black-box Model**
+**Box Model**
 
 Input 1: Soccer balls purchased  
 Input 2: Price of each ball
@@ -15,7 +15,7 @@ Output: Total cost
 
 ********************************************
 
-**Pseudocode**
+**Design**
 
 Prompt user for ballsPurchased  
 Prompt user for ballPrice  
