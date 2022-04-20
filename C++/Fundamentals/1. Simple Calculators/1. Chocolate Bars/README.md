@@ -18,6 +18,8 @@ Output: Total amount earned
 **Design**
 
 Prompt user for barsSold  
-Prompt user for earningsPerBar  
+Prompt user for earningsPerBar
+
 Set totalEarnings = barsSold * earningsPerBar  
+
 Display totalEarnings
