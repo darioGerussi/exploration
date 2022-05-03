@@ -1,9 +1,8 @@
 **Description**
 
-Calculates the the profit that  
-will be made on an estimated amount  
-of total sales, assuming profit margin  
-is 23%.
+Calculates the the profit that will be  
+made on an estimated amount of total  
+sales, assuming profit margin is 23%.
 
 ********************************************
 
@@ -17,7 +16,7 @@ Output: Total Profit
 
 **Design**
 
-Set profitMargin = 0.23
+Set profitMargin = 0.23  
 Prompt user for totalSalesEstimate
 
 Set totalProfit = totalSalesEstimate * profitMargin
