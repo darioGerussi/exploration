@@ -10,7 +10,7 @@ a parcel of land.
 
 Input 1: Square Feet
 
-Output: Acre Equivalent
+Output: Acres
 
 ********************************************
 
