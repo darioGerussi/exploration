@@ -20,5 +20,13 @@ Set salesTaxRate = 0.05
 Set countyTaxRate = 0.025  
 Prompt user for itemCost
 
-Set salesTaxTotal = itemCost * salesTaxRate  
-Set countyTaxTotal = itemCost * countyTaxRate  
+Set salesTaxCost = itemCost * salesTaxRate  
+Set countyTaxCost = itemCost * countyTaxRate  
+Set totalTaxCost = salesTaxCost + countyTaxCost  
+Set totalCost = itemCost + totalTaxCost
+
+Display itemCost  
+Display salesTaxCost  
+Display countyTaxCost  
+Display totalTaxCost  
+Display totalCost
