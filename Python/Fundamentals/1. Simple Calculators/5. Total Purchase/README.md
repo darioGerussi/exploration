@@ -16,17 +16,17 @@ Output: Purchase Total
 
 **Design**
 
-Set salesTaxRate = 0.05  
+Set stateTaxRate = 0.05  
 Set countyTaxRate = 0.025  
 Prompt user for itemCost
 
-Set salesTaxCost = itemCost * salesTaxRate  
+Set stateTaxCost = itemCost * stateTaxRate  
 Set countyTaxCost = itemCost * countyTaxRate  
-Set totalTaxCost = salesTaxCost + countyTaxCost  
-Set totalCost = itemCost + totalTaxCost
+Set salesTaxCost = stateTaxCost + countyTaxCost  
+Set totalCost = itemCost + salesTaxCost
 
 Display itemCost  
-Display salesTaxCost  
+Display stateTaxCost  
 Display countyTaxCost  
-Display totalTaxCost  
+Display salesTaxCost  
 Display totalCost
