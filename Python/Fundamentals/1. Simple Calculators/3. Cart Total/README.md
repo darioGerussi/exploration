@@ -22,8 +22,7 @@ Output: Total Cost
 Set salesTax = 0.07  
 Prompt user for item1Cost (x5 for all 5 items)
 
-Set subtotal = item1Cost + item2Cost + item3Cost +  
-               item4Cost + item5Cost  
+Set subtotal = item1Cost + item2Cost + item3Cost + item4Cost + item5Cost  
 Set totalCost = subtotal + (subtotal * salesTax)
 
 Display totalCost
