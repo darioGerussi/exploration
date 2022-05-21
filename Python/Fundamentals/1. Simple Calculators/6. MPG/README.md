@@ -8,7 +8,7 @@ and gallons of gas consumed.
 
 **Box Model**
 
-Input 1: Miles Driven
+Input 1: Miles Driven  
 Input 2: Gallons of Gas Consumed
 
 Output: MPG Rating
@@ -17,7 +17,7 @@ Output: MPG Rating
 
 **Design**
 
-Prompt user for milesDriven
+Prompt user for milesDriven  
 Prompt user for gasolineGallonsConsumed
 
 Set mpgRating = milesDriven / gasolineGallonsConsumed
