@@ -20,10 +20,10 @@ Set tipRate = 0.18
 Set salesTaxRate = 0.07  
 Prompt user for mealCost
 
-Set tipCost = mealCost * tipRate
-Set salesTaxCost = mealCost * salesTaxRate
+Set tipCost = mealCost * tipRate  
+Set salesTaxCost = mealCost * salesTaxRate  
 Set totalBill = mealCost + tipCost + salesTaxCost
 
-Display tipCost
-Display salesTaxCost
+Display tipCost  
+Display salesTaxCost  
 Display totalBill
