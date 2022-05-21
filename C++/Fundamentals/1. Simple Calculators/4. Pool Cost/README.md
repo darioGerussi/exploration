@@ -17,8 +17,8 @@ Output: Total Cost
 
 **Design**
 
-Prompt user for cementAndTileCost
-Prompt user for pumpAndPipingCost
+Prompt user for cementAndTileCost  
+Prompt user for pumpAndPipingCost  
 Prompt user for laborCost
 
 Set totalCost = cementAndTileCost + pumpAndPipingCost + laborCost
