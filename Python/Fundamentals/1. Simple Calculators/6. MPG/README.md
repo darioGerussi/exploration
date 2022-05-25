@@ -4,7 +4,7 @@ Calculates the MPG rating
 of a car given the miles driven  
 and gallons of gas consumed.
 
-********************************************
+***********************************
 
 **Box Model**
 
@@ -13,7 +13,7 @@ Input 2: Gallons of Gas Consumed
 
 Output: MPG Rating
 
-********************************************
+***********************************
 
 **Design**
 

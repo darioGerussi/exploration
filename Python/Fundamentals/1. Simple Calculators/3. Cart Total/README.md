@@ -3,7 +3,7 @@
 Calculates the total cost of a 5-item  
 purchase, including the sales tax.
 
-********************************************
+***********************************
 
 **Box Model**
 
@@ -15,7 +15,7 @@ Input 5: Cost of Item 5
 
 Output: Total Cost
 
-********************************************
+***********************************
 
 **Design**
 

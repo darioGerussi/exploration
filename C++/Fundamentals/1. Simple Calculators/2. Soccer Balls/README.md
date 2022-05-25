@@ -4,7 +4,7 @@ A program that calculates how much
 a school soccer team spent to purchase  
 soccer balls.  
 
-********************************************
+***********************************
 
 **Box Model**
 
@@ -13,7 +13,7 @@ Input 2: Price of each ball
 
 Output: Total cost
 
-********************************************
+***********************************
 
 **Design**
 

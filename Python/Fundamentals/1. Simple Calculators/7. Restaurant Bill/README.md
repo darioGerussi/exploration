@@ -4,7 +4,7 @@ Calculates the total restaurant bill
 for the meal, including the tip and  
 the sales tax.
 
-********************************************
+***********************************
 
 **Box Model**
 
@@ -12,7 +12,7 @@ Input 1: Cost of Meal
 
 Out: Total Bill
 
-********************************************
+***********************************
 
 **Design**
 

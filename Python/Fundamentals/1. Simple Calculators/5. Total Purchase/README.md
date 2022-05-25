@@ -4,7 +4,7 @@ Calculates the total amount of
 a purchase including the state  
 and county sales taxes.
 
-********************************************
+***********************************
 
 **Box Model**
 
@@ -12,7 +12,7 @@ Input 1: Item Cost
 
 Output: Purchase Total
 
-********************************************
+***********************************
 
 **Design**
 

@@ -5,7 +5,7 @@ Calculates the miles a car going
 durations on a smooth-flowing  
 interstate highway.
 
-********************************************
+***********************************
 
 **Box Model**
 
@@ -13,7 +13,7 @@ All numeric data is provided in the program.
 
 Output is generated immediately.
 
-********************************************
+***********************************
 
 **Design**
 

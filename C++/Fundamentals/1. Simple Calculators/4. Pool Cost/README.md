@@ -3,7 +3,7 @@
 Calculates the cost of a salt-water  
 swimming pool based on labor and supplies.
 
-********************************************
+***********************************
 
 **Box Model**
 
@@ -13,7 +13,7 @@ Input 3: Labor
 
 Output: Total Cost
 
-********************************************
+***********************************
 
 **Design**
 
