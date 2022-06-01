@@ -4,8 +4,7 @@ Stores a measure of 3 ingredients
 needed to make 48 cookies. Asks  
 user how many cookies are desired  
 and then displays the required  
-measures to make that many  
-cookies.
+measures to make that many cookies.
 
 ***********************************
 
