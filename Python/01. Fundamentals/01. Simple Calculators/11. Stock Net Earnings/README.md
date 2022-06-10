@@ -31,7 +31,7 @@ Set purchaseCommission = total Purchase * commissionRate
 Set sharesSold = 2000  
 Set shareSellPrice = 42.75  
 Set totalSale = sharesSold * sharesSellPrice  
-Set saleCommission
+Set saleCommission = totalSale * commissionRate  
 
 Set netEarnings = totalSale - totalPurchase - purchaseCommission - saleCommission
 
