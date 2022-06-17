@@ -15,7 +15,6 @@ Two Weeks Later..
 Input 4: 2,000 Shares Sold  
 Input 5: $42.75 Share Price
 
-
 Output: Net Earnings
 
 ***********************************
