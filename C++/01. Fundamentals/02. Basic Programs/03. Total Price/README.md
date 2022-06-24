@@ -25,6 +25,10 @@ Set countySalesTaxRatio = 0.02
 
 Set stateSalesTaxAmount = itemPrice * stateSalesTaxRatio  
 Set countySalesTaxAmount = itemPrice * countySalesTaxRatio  
-Set totalPrice = itemPrice + stateSalesTaxAmount + countySalesTaxAmount
+Set totalTaxAmount = stateSalesTaxAmount + countySalesTaxAmount  
+Set totalPrice = itemPrice + totalTaxAmount
 
+Display itemPrice  
+Display totalTaxAmount  
 Display totalPrice
+
