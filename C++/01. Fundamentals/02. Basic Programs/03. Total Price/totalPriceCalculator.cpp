@@ -7,8 +7,8 @@ int main()
 {
     // Declare variables
     double itemPrice = 95.00,           // Dollars
-           stateSalesTaxRatio = 0.065,  // Percent
-           countySalesTaxRatio = 0.02,  // Percent
+           stateSalesTaxRatio = 0.065,  // 6.5%
+           countySalesTaxRatio = 0.02,  // 2%
            stateSalesTaxAmount,
            countySalesTaxAmount,
            totalSalesTaxAmount,
