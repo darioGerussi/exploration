@@ -24,8 +24,8 @@ Set gallonsGasTankCapacity = 20
 Set cityMPG = 23.5  
 Set highwayMPG = 28.9
 
-Set cityMilesPerTank = gallonsGasTankCapacity / cityMPG  
-Set highwayMilesPerTank = gallonsGasTankCapacity / highwayMPG
+Set cityMilesPerTank = gallonsGasTankCapacity * cityMPG  
+Set highwayMilesPerTank = gallonsGasTankCapacity * highwayMPG
 
 Display cityMilesPerTank  
 Display highwayMilesPerTank
